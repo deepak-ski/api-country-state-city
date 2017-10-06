@@ -57,6 +57,7 @@ INSERT INTO `states` (`id`, `name`, `country_id`) VALUES
 (39, 'Uttarakhand', 101),
 (40, 'Vaishali', 101),
 (41, 'West Bengal', 101),
+(42, 'Telangana', 101),
 (42, 'Badakhshan', 1),
 (43, 'Badgis', 1),
 (44, 'Baglan', 1),
